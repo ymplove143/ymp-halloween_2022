@@ -2,7 +2,7 @@
 Install Instruction:\
 1.copy this folder to the resource folder and remove main from the name\
 2.edit server.cfg and add `start ymp-halloween_2022` then save it\
-3. You are done enjoy the party\
+3. You are done enjoy the party
 
 Suggestion:\
 You can add this resource also to your server it's not mine but great to use for party.\
