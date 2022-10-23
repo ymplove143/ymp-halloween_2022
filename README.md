@@ -6,10 +6,10 @@ Install Instruction:\
 
 Suggestion:\
 You can add this resource also to your server it's not mine but great to use for party.\
-https://github.com/ymplove143/Djbooth\
+https://github.com/ymplove143/Djbooth
 
 Preview:\
-https://youtu.be/dIuC5YeOYIg\
+https://youtu.be/dIuC5YeOYIg
 
 Screen Shot:
 ![image](https://user-images.githubusercontent.com/113895106/197416624-559b5019-c4ad-4870-85c0-801070dd976c.png)
